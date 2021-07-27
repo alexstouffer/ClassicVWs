@@ -1,0 +1,39 @@
+/*
+Theme Name: hello elementor child
+Theme URI: http://example.com/twenty-fifteen-child/
+description: >-
+  hello elementor child
+Author: 
+Author URI: 
+Template: hello-elementor
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: hello-elementor
+*/
+
+@font-face {
+  font-family: 'VW Head';
+  src:url('fonts/VWHead-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VW Head-Bold';
+  src:url('fonts/VWHead-Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VW Text';
+  src:url('fonts/VWText-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'VW Text-Bold';
+  src:url('fonts/VWText-Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
